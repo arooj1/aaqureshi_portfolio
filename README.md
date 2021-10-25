@@ -1,6 +1,6 @@
 # Welcome to my website 
 
-## Some of my prohects are as follows: 
+## Some of my projects are as follows: 
 
 ## PROJECT - 1: 
 ### <a href='https://github.com/arooj1/ds_salary_proj' >Data Scientist Salary Predictor (in North America)</a>

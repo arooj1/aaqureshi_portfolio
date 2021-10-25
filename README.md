@@ -3,7 +3,7 @@
 ## Some of my prohects are as follows: 
 
 ## PROJECT - 1: 
-### <a href:'https://github.com/arooj1/ds_salary_proj' >Data Scientist Salary Predictor (in North America)</a>
+### <a href='https://github.com/arooj1/ds_salary_proj' >Data Scientist Salary Predictor (in North America)</a>
 
 <p>The idea is to create a data science project from scratch. The purpose is to predict the expected salary range of a data scientist across North America.
 For the project, data is scrapped from the glassdoor website. Around 500 data scientists, jobs data is of USA and 500 of Canada.

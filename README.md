@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to my website 
 
-You can use the [editor on GitHub](https://github.com/arooj1/aaqureshi_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Some of my prohects are as follows: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PROJECT - 1: 
+### <a href:'https://github.com/arooj1/ds_salary_proj' >Data Scientist Salary Predictor (in North America)</a>
 
-### Markdown
+<p>The idea is to create a data science project from scratch. The purpose is to predict the expected salary range of a data scientist across North America.
+For the project, data is scrapped from the glassdoor website. Around 500 data scientists, jobs data is of USA and 500 of Canada.
+Data is cleaned by removing missing salary data and by extracting useful features from it.
+The Rain forest regression model predicts salary ~ MAE of 12K and outperforms the linear regression model.
+Built a client-facing API using FLASK.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arooj1/aaqureshi_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

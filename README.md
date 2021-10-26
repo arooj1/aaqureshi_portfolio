@@ -11,5 +11,11 @@ Data is cleaned by removing missing salary data and by extracting useful feature
 The Rain forest regression model predicts salary ~ MAE of 12K and outperforms the linear regression model.
 Built a client-facing API using FLASK.</p>
 
+## PROJECT -2:
+### <a href="https://arooj1.github.io/time_series_upwork/"> Anomaly Detection </a>
+
+<p>MOTIVATION
+https://keras.io/examples/timeseries/timeseries_anomaly_detection/ <p>
+
 
 
